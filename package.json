@@ -1,0 +1,28 @@
+{
+  "name": "projet_ssh",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BriceRI7/projet_ssh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BriceRI7/projet_ssh/issues"
+  },
+  "homepage": "https://github.com/BriceRI7/projet_ssh#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.1.10",
+    "nodemon": "^2.0.15",
+    "twig": "^1.15.4"
+  },
+  "type": "module"
+}
